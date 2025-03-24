@@ -11,8 +11,11 @@ To see if factors such as a lifter age or gender or bodyweight contributes to a 
 - Did some cleaning and organising to columns
 - I condensed the data down by a few parameters to leave more comaprable data
 - Grouped and sorted the data into categories to relate them, to test the hypothesis
-- Used different visualisation methods to display the relationships. 
+- Used different visualisation methods to display the relationships.
+
+  
 
 LINK TO DATASET: https://www.kaggle.com/datasets/davidjlochner/open-powerlifting-data-20210625
+
 LINK TO presentation: https://1drv.ms/p/c/32697edda2dadbb3/EVCgA_FhwAZMqKstpISVwt0B9Y9hTstyIkN7lf42BXO9WQ?e=qQgacZ
 
