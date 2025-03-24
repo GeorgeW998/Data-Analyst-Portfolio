@@ -17,5 +17,4 @@ To see if factors such as a lifter age or gender or bodyweight contributes to a 
 
 LINK TO DATASET: https://www.kaggle.com/datasets/davidjlochner/open-powerlifting-data-20210625
 
-LINK TO presentation: 
 
