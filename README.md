@@ -13,7 +13,12 @@ To see if factors such as a lifter age or gender or bodyweight contributes to a 
 - Grouped and sorted the data into categories to relate them, to test the hypothesis
 - Used different visualisation methods to display the relationships.
 
-  
+## Improvements 
+This is still a work in progress, so I will be adding and improving as I learn.
+
+- Add some machine learning which will try to predict peoples' total max lift, based on the previously mentioned factors.
+- Look at failed lifts and see if/how far these would be outside a persons max.
+- Some general neatening of the notebook for ease of reading.  
 
 LINK TO DATASET: https://www.kaggle.com/datasets/davidjlochner/open-powerlifting-data-20210625
 
